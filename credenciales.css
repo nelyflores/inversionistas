@@ -1,0 +1,31 @@
+body{
+  height: 100vh;
+}
+.headercontainer{
+  background-color: black;
+}
+.modelonegocios{
+  margin-bottom: 30px;
+}
+.imglogo{
+  margin-left: 93px;
+}
+footer{
+
+  margin-top: 41px;
+
+
+
+  width:100%;
+
+}
+.direccion{
+color: black;
+font-size: 12px;
+}
+.redessociales{
+  height: 24px;
+}
+.facebook:hover{
+  color: green;
+}
